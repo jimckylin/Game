@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sunshine.fastruning</string>
+				<string>dd.UnDead</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>快跑</string>
+				<string>绝命追击</string>
 				<key>title</key>
-				<string>快跑</string>
+				<string>绝命追击</string>
 			</dict>
 		</dict>
 	</array>
